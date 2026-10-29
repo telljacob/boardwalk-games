@@ -164,6 +164,10 @@ h2 {
     #services .card-body {
         min-height: 191px;
     }
+
+    #events table {
+        font-size: 1rem;
+    }
 }
 
 /* Large devices (small laptops, 992px and up) */
