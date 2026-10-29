@@ -27,7 +27,8 @@ h3 {
     color: var(--highlight-color);
 }
 
-.container,
+/* Grid visualization */
+/* .container,
 .row {
     border: 2px solid black;
 }
@@ -35,4 +36,5 @@ h3 {
 .col-12 {
     border: 2px solid white;
     background-color: lightgrey;
-}
+} */
+
