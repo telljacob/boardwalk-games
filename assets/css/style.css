@@ -133,6 +133,18 @@ h2 {
     background-color: transparent;
 }
 
+/* Events */
+#events .discount span {
+    background-color: var(--highlight-color);
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem 1.25rem;
+}
+
+#events table {
+    font-size: 0.8rem;
+}
+
 /* Grid visualization */
 /* .container,
 .row {
